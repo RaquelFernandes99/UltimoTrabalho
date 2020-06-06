@@ -279,7 +279,7 @@ box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
 }
 
 #contact button:hover {
-color:#43D989;
+color:#ba89ff;
 background: #ffffff;
 border-color: #ffffff;
 transform: translateY(-7px);
@@ -297,7 +297,7 @@ transition: color 1s ease;
 }
 
 .footer a:hover {
-color: #47bf7f;
+color: #b35bff;
 }
 
 .text-footer{
